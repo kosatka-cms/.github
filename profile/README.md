@@ -5,7 +5,7 @@
 <h3 align="center">Kosatka</h3>
 
 <p align="center">
-  A CMS written in Go for building any kind of site in the admin, without writing code.<br>
+  A CMS written in Go for building any kind of site without writing code.<br>
   <a href="https://kosatka-cms.github.io/kosatka/">Documentation</a> ·
   <a href="https://github.com/kosatka-cms/kosatka">Engine</a> ·
   <a href="https://github.com/kosatka-cms/kosatka/releases">Releases</a>
